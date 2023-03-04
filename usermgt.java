@@ -2,6 +2,6 @@ landmark
 obi
 Amaka
 simon 
-ayo
+kanayo
 kamsy
 datti
